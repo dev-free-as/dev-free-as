@@ -1,1 +1,3 @@
-여기는 DevKR(discord) 에서 사용할 봇 제작 깃허브 입니다.
+# Discord : Dev_mao3
+
+- 마오의 강의 깃허브 입니다.
