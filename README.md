@@ -5,4 +5,4 @@
 - **개발 환경**: [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## 📫 Discord Profile
-[![Discord Presence](https://lanyard.cnrad.dev/api/1330038624229789746?theme=&animated=false&showDisplayName=true)](https://discord.com/users/1330038624229789746)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1330038624229789746?theme=&animated=true&showDisplayName=true)](https://discord.com/users/1330038624229789746)
