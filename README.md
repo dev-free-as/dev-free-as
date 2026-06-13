@@ -91,7 +91,11 @@ class Developer:
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/dev-free-as/dev-free-as/output/snake.svg" alt="snake animation" onerror="this.style.display='none'" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-free-as/dev-free-as/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-free-as/dev-free-as/output/snake-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/dev-free-as/dev-free-as/output/snake.svg" alt="snake animation" />
+</picture>
 
 </div>
 
