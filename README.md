@@ -3,10 +3,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=무상%20AS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-hosting%20·%20Backend%20·%20Discord%20Bots&descSize=18&descAlignY=58" alt="header" />
 
-<!-- 타이핑 애니메이션 -->
-<a href="https://github.com/dev-free-as">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=520&lines=%EB%82%B4%EA%B0%80%20%EC%93%B0%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%EA%B1%B4%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A0%EB%8B%A4;%EC%85%80%ED%94%84%ED%98%B8%EC%8A%A4%ED%8C%85%EC%9D%84%20%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90;Python%20·%20TypeScript%20·%20Swift" alt="typing" />
-</a>
 
 </div>
 
