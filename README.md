@@ -60,6 +60,7 @@ class Developer:
 
 | 프로젝트 | 설명 | 스택 |
 | :--- | :--- | :--- |
+| 📱 **Vely** | 발로란트 컴패니언 iOS 앱 — 상점·야시장·전적·2D 미니맵 리플레이·라이브 액티비티 (외부 라이브러리 0, 100% 네이티브) | `Swift` `SwiftUI` |
 | 🌊 **Siphon** | 셀프호스팅 yt-dlp 컨트롤룸 — 클릭 한 번으로 다운로드, 실시간 진행률 | `FastAPI` `Python` |
 | 🔥 **Hearth** | 셀프호스팅 서비스용 개인 대시보드 (로그인 · 업타임 · CF 터널 내장) | `Node` `JavaScript` |
 | 📧 **email-service** | 자체 메일 서버 (Flask + React, SMTP 직접 운영) | `Flask` `React` |
